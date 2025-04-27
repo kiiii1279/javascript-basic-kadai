@@ -1,4 +1,4 @@
-let num = 22;
+let num = 15;
 
 console. log(num);
 
