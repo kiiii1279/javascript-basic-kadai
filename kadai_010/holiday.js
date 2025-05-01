@@ -6,6 +6,8 @@ for (let i = 0; i < holidays.length; i++) {
 }
 
 // while文の場合
-while (holidays !== '勤労感謝の日'){
-    console.log(holidays);
+let i = 0
+while ( i < holidays.length){
+    console.log(holidays[i]);
+    i++;
 }
